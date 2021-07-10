@@ -1,0 +1,17 @@
+v5
+├── CPluginController.cpp
+├── CPluginController.h
+├── CPluginEnumerator.cpp
+├── CPluginEnumerator.h
+├── data
+│   ├── file1.txt
+│   └── file2.txt
+├── Function.cpp
+├── IPrintPlugin.cpp
+├── IPrintPlugin.h
+├── main
+├── Main.cpp
+└── plugin
+    └── libtest.so
+
+2 directories, 12 files

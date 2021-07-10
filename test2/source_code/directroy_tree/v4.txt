@@ -1,0 +1,16 @@
+v4
+├── a1.cpp
+├── a2.cpp
+├── CPluginController.cpp
+├── CPluginController.h
+├── CPluginEnumerator.cpp
+├── CPluginEnumerator.h
+├── IPrintPlugin.cpp
+├── IPrintPlugin.h
+├── main
+├── Main.cpp
+└── plugin
+    ├── libtest1.so
+    └── libtest2.so
+
+1 directory, 12 files

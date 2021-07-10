@@ -1,0 +1,8 @@
+v2
+├── a.out
+├── main
+├── main.cpp
+└── plugin
+    └── libtest.so
+
+1 directory, 4 files

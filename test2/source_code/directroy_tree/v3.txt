@@ -1,0 +1,16 @@
+v3
+├── CPluginController.cpp
+├── CPluginController.h
+├── CPluginEnumrator.cpp
+├── CPluginEnumrator.h
+├── f1.cpp
+├── f1.h
+├── f2.cpp
+├── f2.h
+├── main
+├── main.cpp
+└── plugin
+    ├── libtest1.so
+    └── libtest2.so
+
+1 directory, 12 files
